@@ -1,4 +1,8 @@
-### Hi there 👋
+###  ✨ A Well-Educated Software Developer ✨
+An accomplished software developer specializing in Web & Application Development, with extensive experience in the full life cycle of the software process -including requirements definition, development front-backend and testing.
+
+![gitprofile](https://user-images.githubusercontent.com/53316237/122551957-ad8b5100-d003-11eb-8da2-0487c9cab708.png)
+
 
 <!--
 **sniper88t/sniper88t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
