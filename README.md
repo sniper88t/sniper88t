@@ -3,6 +3,12 @@ An accomplished software developer specializing in Web & Application Development
 
 ![gitprofile](https://user-images.githubusercontent.com/53316237/122551957-ad8b5100-d003-11eb-8da2-0487c9cab708.png)
 
+ - 🔭 I’m currently working on opensource & private projects
+ - 💬 Ask me about Laravel and Javascript (Vue, React, Angular, Node.js) issues
+ 
+ The best advice is to just jump in. Don't be afraid of the things that you're not so good at.
+ 
+ ![git_states_profile](https://user-images.githubusercontent.com/53316237/122552569-749fac00-d004-11eb-8ad1-9de3e7d7bb19.png)
 
 <!--
 **sniper88t/sniper88t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
