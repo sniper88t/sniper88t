@@ -4,7 +4,7 @@ An accomplished software developer specializing in Web & Application Development
 ![gitprofile](https://user-images.githubusercontent.com/53316237/122551957-ad8b5100-d003-11eb-8da2-0487c9cab708.png)
 
  - 🔭 I’m currently working on opensource & private projects
- - 💬 Ask me about Laravel and Javascript (Vue, React, Angular, Node.js) issues
+ - 💬 Ask me about PHP(Laravel) & Javascript (Vue, React, Angular, Node.js) & SQL/NoSQL DB issues
  
  The best advice is to just jump in. Don't be afraid of the things that you're not so good at.
  
