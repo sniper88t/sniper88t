@@ -1,7 +1,7 @@
 ###  ✨ A Well-Educated Software Developer ✨
 An accomplished software developer specializing in Web & Application Development, with extensive experience in the full life cycle of the software process -including requirements definition, development front-backend and testing.
 
-![sniper88t_image](https://user-images.githubusercontent.com/53316237/182011087-4cd970a1-ca35-441d-86dd-beab0d6aeb86.png)
+![image](https://user-images.githubusercontent.com/53316237/182011385-b55cc4b1-4fbc-4ae4-aa3d-bd270c38e467.png)
 
  - 🔭 I’m currently working on opensource & private projects
  - 💬 Ask me about PHP(Laravel) & Javascript (Vue, React, Angular, Node.js) & SQL/NoSQL DB issues
