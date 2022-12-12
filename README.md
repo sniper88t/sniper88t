@@ -1,7 +1,7 @@
 ###  ✨ A Well-Educated Software Developer ✨
 An accomplished software developer specializing in Web & Application Development, with extensive experience in the full life cycle of the software process -including requirements definition, development front-backend and testing.
 
-![image](https://user-images.githubusercontent.com/53316237/182011385-b55cc4b1-4fbc-4ae4-aa3d-bd270c38e467.png)
+![Capture](https://user-images.githubusercontent.com/53316237/206981085-c73185d6-8483-4ea1-964b-974ffb1d3ca1.PNG)
 
  - 🔭 I’m currently working on opensource & private projects
  - 💬 Ask me about Python(Django & Flask) & Ruby on Rails & Javascript (Vue, React, Angular, Node.js) & SQL/NoSQL DB issues
